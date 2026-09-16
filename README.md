@@ -330,7 +330,10 @@ Possible future improvements include:
 ## 📸 Screenshots & Demo
 
 <img width="1045" height="611" alt="Screenshot 2026-01-05 100813" src="https://github.com/user-attachments/assets/fea761b1-3179-459a-9bee-021d13e4e42c" />
-<img width="1919" height="989" alt="Screenshot 2026-03-03 143940" src="https://github.com/user-attachments/assets/2526b147-de46-46c7-bfae-29584de64408" />
+<img width="823" height="1400" alt="image" src="https://github.com/user-attachments/assets/315d75f4-3a64-4012-95a1-42bab9b8704f" />
+<img width="707" height="1401" alt="image" src="https://github.com/user-attachments/assets/c7eca011-2427-4309-b356-200845989833" />
+<img width="689" height="1404" alt="image" src="https://github.com/user-attachments/assets/694c4728-25d2-440d-b1f8-a058b5a5c75d" />
+<img width="673" height="1400" alt="image" src="https://github.com/user-attachments/assets/c8d06a1c-8f7c-4cb2-b2d8-030b0873569e" />
 <img width="1455" height="785" alt="Screenshot 2026-04-26 132716" src="https://github.com/user-attachments/assets/990fcdfc-2437-48f6-a735-2e1b04de20eb" />
 
 ---

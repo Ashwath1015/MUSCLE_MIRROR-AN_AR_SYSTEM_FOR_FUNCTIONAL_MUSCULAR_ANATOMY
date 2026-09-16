@@ -329,23 +329,9 @@ Possible future improvements include:
 
 ## 📸 Screenshots & Demo
 
-Add screenshots of the application here after uploading them to your repository.
-
-Example:
-
-```markdown
-## 📸 Screenshots
-
-![AR Muscle Visualization](path/to/screenshot.png)
-
-![Muscle Information](path/to/screenshot.png)
-
-![Exercise Animation](path/to/screenshot.png)
-
-![Real-Time Body Overlay](path/to/screenshot.png)
-```
-
-You can also add a project demonstration video or GIF here.
+<img width="1045" height="611" alt="Screenshot 2026-01-05 100813" src="https://github.com/user-attachments/assets/fea761b1-3179-459a-9bee-021d13e4e42c" />
+<img width="1919" height="989" alt="Screenshot 2026-03-03 143940" src="https://github.com/user-attachments/assets/2526b147-de46-46c7-bfae-29584de64408" />
+<img width="1455" height="785" alt="Screenshot 2026-04-26 132716" src="https://github.com/user-attachments/assets/990fcdfc-2437-48f6-a735-2e1b04de20eb" />
 
 ---
 
@@ -358,16 +344,6 @@ You can also add a project demonstration video or GIF here.
 **Institution:** Ramco Institute of Technology, Rajapalayam
 
 **University:** Anna University, Chennai
-
-### Project Team
-
-* **Ashwath V**
-* **Eemana Yogeswar**
-* **Srinivasabalan S**
-
-### Project Guide
-
-**Ms. P. Rajarajeswari, M.E.**
 
 ---
 

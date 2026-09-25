@@ -369,7 +369,7 @@ Please contact the project authors before reusing or redistributing project asse
 
 ---
 
-## 👨‍💻 Authors
+## 👨‍💻 Author
 
 **Ashwath V**
 Computer Science and Engineering
